@@ -9,7 +9,11 @@ from reacting to fires to building a product that quietly protects itself.
 
 <br>
 
-`HTML` · `CSS` · `Chart.js` · `Zero dependencies` · `Runs offline`
+![HTML5](https://img.shields.io/badge/HTML-5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-3-1572B6?style=flat&logo=css3&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-v4.0-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+![Zero Dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat)
+![Runs Offline](https://img.shields.io/badge/mode-offline-blue?style=flat)
 
 <br>
 
