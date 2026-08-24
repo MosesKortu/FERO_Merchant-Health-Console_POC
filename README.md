@@ -118,7 +118,6 @@ This console is the interactive piece of a three-part deliverable:
 
 - 📄 **Strategy memo** — the full written plan for the three problems (Word document)
 - 📊 **Slide deck** — a six-slide walk-through of the approach (PowerPoint)
-- 🗒️ **Presentation notes** — speaker notes for presenting the deck (Word document)
 - 🖥️ **This console** — the same plan, made clickable
 
 <br>
